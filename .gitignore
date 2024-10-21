@@ -1,0 +1,8 @@
+config.json
+.idea
+venv
+*.log
+.pytest_cache
+__pycache__/
+lib/__pycache__/
+nohup.out

@@ -1,0 +1,8 @@
+youtube_transcript_api
+ramda
+urllib3
+openai
+gradio
+bs4
+tiktoken
+pytest
